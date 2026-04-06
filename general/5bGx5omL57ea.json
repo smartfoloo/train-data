@@ -1,0 +1,19 @@
+{
+  "lineName": "山手線",
+  "operator": "JR東日本",
+  "vehicles": [
+    "E235系0番台",
+    "E231系500番台"
+  ],
+  "distance": "34.5km",
+  "gauge": "1,067mm（狭軌）",
+  "stationCount": "30駅",
+  "electrification": "直流1,500V",
+  "maxSpeed": "90km/h",
+  "blockSystem": "ATC-6",
+  "funFacts": [
+    "豆知識1",
+    "豆知識2"
+  ],
+  "color": "#9ACD32"
+}
